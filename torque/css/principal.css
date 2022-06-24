@@ -1,0 +1,62 @@
+
+
+main {
+    float: left;
+    width: 50%;
+    padding-left: 1%;
+}
+
+main h4{
+    text-align: center;
+    padding-left: 8%;
+}
+
+
+main figure, main figure img{
+    display: inline-block;
+    width: 30%;
+    border-radius: 10px;
+}
+
+main p{
+    /* display: block; */
+    width: 30%;
+} 
+
+main figcaption{
+    padding: auto;
+    text-decoration: none;
+    color: black;
+}
+
+main div{
+    padding-left: 15%;
+}
+
+aside h4{
+    text-align: center;
+    padding-left: 8%;
+}
+
+aside{
+    float: right;
+    width: 50%;
+}
+
+aside div{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+
+aside a{
+    padding: 1%;
+    color: black;
+}
+
+aside img{
+    border-radius: 10px;
+}
+
+.fullbranco{
+    color: white;
+}

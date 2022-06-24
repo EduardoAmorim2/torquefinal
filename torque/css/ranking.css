@@ -1,0 +1,43 @@
+table{
+    background-color: rgba(233, 202, 202, 0.356);
+}
+
+main {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    padding: 1%;
+}
+
+main table, main table img{
+    display: inline-block;
+    width: 40%;
+    border-radius: 10px;
+}
+
+main td{
+    /* display: block; */
+    width: 40%;
+} 
+
+td{
+    border-radius: 10px;
+}
+
+.gold{
+    background-color: gold;
+}
+
+.silver{
+    background-color: silver;
+}
+
+.bronze{
+    background-color: maroon;
+    color: aliceblue;
+}
+
+.titulo{
+    background-color: rgba(0, 0, 0, 0.699);
+    color: wheat;
+}

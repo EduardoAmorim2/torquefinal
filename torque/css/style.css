@@ -1,0 +1,55 @@
+body{
+    zoom: 0.9;
+}
+
+.navbar-brand{
+    color: white;
+    Font-family: Consolas, monaco, monospace;
+}
+
+.navbar{
+    background-color: #922900;
+}
+
+.nav-item {
+    /* font-family: Impact, fantasy; */
+    Font-family: Consolas, monaco, monospace;
+    margin: 0 25%;
+    size: 10px;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+    size: 100px;
+}
+
+footer .imgs{
+    display: inline-block;
+    align-items: left;
+}
+
+footer{
+    background-color: #922900;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 0.4rem;
+    bottom: 8; 
+    width: 100%;
+}
+
+footer .logo{
+    width: 10%;
+}
+
+footer .contato{
+    width: 2.5%;
+}
+
+button{
+    background-color: #922900;
+    border: inherit;
+}

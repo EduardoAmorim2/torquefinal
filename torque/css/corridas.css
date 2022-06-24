@@ -1,0 +1,29 @@
+table{
+    background-color: rgba(0, 0, 0, 0.151);
+}
+
+main {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    padding: 1%;
+}
+
+main table, main table img{
+    display: inline-block;
+    width: 40%;
+    border-radius: 10px;
+}
+
+main td{
+    /* display: block; */
+    width: 40%;
+} 
+
+.encerradotxt{
+    color: red;
+}
+
+.proximatxt{
+    color: rgb(0, 184, 0);
+}
